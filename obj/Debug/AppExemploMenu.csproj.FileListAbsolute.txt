@@ -1,0 +1,13 @@
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.exe.config
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.exe
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.pdb
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.AssemblyReference.cache
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.SuggestedBindingRedirects.cache
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.Frmcanudocomcafe.resources
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.Frmpagodin.resources
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.Frmpedrosilvino.resources
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.Properties.Resources.resources
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.GenerateResource.cache
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.CoreCompileInputs.cache
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.exe
+H:\2 ETAPA POO\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.pdb
